@@ -24,7 +24,7 @@ git clone https://github.com/iRust7/Python-Text-Based-RPG-ASCII.git
 
 Masuk ke Folder Proyek:
 
-cd Python-Text-Based-RPG-ASCII
+'''cd Python-Text-Based-RPG-ASCII
 
 Pasang Dependensi:
 Pastikan Python 3.7 atau lebih baru udah terinstal. 
