@@ -1,6 +1,6 @@
-# Python Text-Based RPG ASCII
+# Python GAME FABLE TALES Text-Based RPG ASCII
 
-Selamat datang di FABLES TALES Python Text-Based RPG ASCII! Game ini adalah RPG berbasis teks yang dibuat pakai Python, lengkap dengan seni ASCII buat ngasih vibe nostalgia. Cukup Seru, karena ada cerita seru, karakter yang bisa berkembang, dan sistem pertarungan berbasis giliran.
+Selamat datang di Python Text-Based RPG ASCII! Game ini adalah RPG berbasis teks yang dibuat pakai Python, lengkap dengan seni ASCII buat ngasih vibe nostalgia. Cukup seru, karena ada cerita seru, karakter yang bisa berkembang, dan sistem pertarungan turn-based.
 
 ## Fitur
 
@@ -25,7 +25,10 @@ Ikuti langkah-langkah ini buat mulai main:
    ```
 
 3. **Pasang Dependensi**:
-   Pastikan Python 3.7 atau lebih baru udah terinstal
+   Pastikan Python 3.7 atau lebih baru udah terinstal. Kalau ada library yang perlu diinstal, jalanin ini:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. **Jalankan Game**:
    ```bash
@@ -54,6 +57,15 @@ Ikuti langkah-langkah ini buat mulai main:
 - `main.py`: File utama buat mulai game.
 - `game/`: Isinya modul-modul kayak pertarungan, cerita, dan karakter.
 - `assets/`: Tempat seni ASCII dan aset lainnya.
+- `requirements.txt`: Daftar library yang dibutuhkan.
+
+## Contoh Tampilan Game
+
+### Tampilan Pertarungan:
+![Tampilan Pertarungan](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest2.png)
+
+### Tampilan Peta:
+![Tampilan Peta](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest3.jpg)
 
 ## Kontribusi
 
@@ -73,6 +85,10 @@ Kalau punya ide fitur baru, perbaikan, atau nemu bug, langsung aja bikin issue a
    ```
 4. Buka pull request di GitHub.
 
+## Lisensi
+
+Proyek ini pakai lisensi MIT. Lihat file `LICENSE` buat info lebih lengkap.
+
 ## Terima Kasih
 
 Makasih banyak buat semua yang udah bantuin, dari kontribusi sampai testing. Kalian keren banget!
@@ -83,5 +99,5 @@ Ada pertanyaan, saran, atau masalah? Langsung aja tulis di bagian Issues di repo
 
 ---
 
-Selamat main dan semoga petualangan kamu seru!
+Selamat main dan semoga petualangan kamu seru !
 
