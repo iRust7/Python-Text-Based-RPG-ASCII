@@ -1,4 +1,6 @@
 # Python GAME FABLE TALES Text-Based RPG ASCII
+### MAINMENU GAME:
+![Tampilan menuu](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/mainmenu.jpg)
 
 Selamat datang di Python Text-Based RPG ASCII! Game ini adalah RPG berbasis teks yang dibuat pakai Python, lengkap dengan seni ASCII buat ngasih vibe nostalgia. Cukup seru, karena ada cerita seru, karakter yang bisa berkembang, dan sistem pertarungan turn-based.
 
@@ -61,11 +63,14 @@ Ikuti langkah-langkah ini buat mulai main:
 
 ## Contoh Tampilan Game
 
-### Tampilan Pertarungan:
-![Tampilan Pertarungan](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest2.png)
+### Tampilan game:
+![Tampilan game](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest2.png)
 
-### Tampilan Peta:
-![Tampilan Peta](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest3.jpg)
+### Tampilan game:
+![Tampilan game](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest3.jpg)
+
+### Tampilan map game:
+![Tampilan peta](https://github.com/iRust7/Python-Text-Based-RPG-ASCII/blob/main/asset/gametest1.png)
 
 ## Kontribusi
 
